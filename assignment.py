@@ -5,6 +5,7 @@ import seaborn as sns
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from pandas_profiling import ProfileReport
+from streamlit_pandas_profiling import st_profile_report
 
 # web app ka title
 
