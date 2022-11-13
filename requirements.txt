@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+sklearn
+seaborn
+matplotlib
+ProfileReport
+streamlit_pandas_profiling
