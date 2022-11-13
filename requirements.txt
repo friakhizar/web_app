@@ -6,4 +6,4 @@ seaborn
 matplotlib
 pandas_profiling
 streamlit_pandas_profiling
-pip install --upgrade pip
+pipenv
