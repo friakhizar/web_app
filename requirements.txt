@@ -4,5 +4,5 @@ streamlit
 sklearn
 seaborn
 matplotlib
-ProfileReport
+pandas_profiling
 streamlit_pandas_profiling
